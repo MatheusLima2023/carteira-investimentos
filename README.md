@@ -8,7 +8,7 @@ Sistema web responsivo para gerenciamento de aportes financeiros, alocação de 
 
 * **Painel Geral:** Exibição do patrimônio total investido e contagem de operações.
 * **Gráfico Dinâmico:** Visualização da distribuição percentual por categoria (Ações, FIIs, Renda Fixa, etc.) via Chart.js.
-* **Cadastro de Aportes:** Registro de novos investimentos vinculados a corretoras e categorias.
+* **Cadastro de aportes:** Registro de novos investimentos vinculados a corretoras e categorias.
 * **Gestão de Instituições:** Modal dinâmico para cadastrar novos bancos ou corretoras sem mexer no banco de dados.
 * **Exclusão de Registros:** Gerenciamento direto na tabela principal com confirmação de ação.
 
