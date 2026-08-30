@@ -36,4 +36,4 @@ O banco foi projetado com suporte a relacionamento entre tabelas para evitar red
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/carteira-investimentos.git](https://github.com/SEU_USUARIO/carteira-investimentos.git)
+  git clone https://github.com/MatheusLima2023/carteira-investimentos.git
